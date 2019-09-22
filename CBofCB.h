@@ -1,6 +1,5 @@
 // file: CBofCB.h
-//
-// UMBC CMSC 341 Fall 2018 Project 1
+/
 //
 // Header file for Circular Buffer of Circular Buffer.
 // See project description for details.
