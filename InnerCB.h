@@ -1,6 +1,5 @@
 // file: InnerCB.h
 //
-// UMBC CMSC 341 Fall 2018 Project 1
 //
 // Header file for Inner Circular Buffer.
 // See project description for details.
